@@ -5,7 +5,7 @@
 👨‍💻 Now growing up in the cloud world as **Dwinovic** <br />
 🇲🇨 Indonesian  <br />
 🧟‍♂️ Philomath <br />
-❤️‍🔥 Love **code** and **design** <br />
+🧡 Love **code** and **design** <br />
 📌 Full Stack Website Developer <br />
 🤹 JavaScript Developer <br />
 
