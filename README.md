@@ -1,13 +1,13 @@
 ## Who Am I?🤔
 
-👶 My birth name is ***Novi Dwi Cahya***
-👦 Growing up as a teenager with the nickname ***Nopik***
-👨‍💻 Now growing up in the cloud world as **Dwinovic**
-🇲🇨 Indonesian
-🧟‍♂️ Philomath
-❤️‍🔥 Love **code** and **design**
-📌 Full Stack Website Developer
-🤹 JavaScript Developer
+👶 My birth name is ***Novi Dwi Cahya*** <br />
+👦 Growing up as a teenager with the nickname ***Nopik*** <br />
+👨‍💻 Now growing up in the cloud world as **Dwinovic** <br />
+🇲🇨 Indonesian  <br />
+🧟‍♂️ Philomath <br />
+❤️‍🔥 Love **code** and **design** <br />
+📌 Full Stack Website Developer <br />
+🤹 JavaScript Developer <br />
 
 ### Technologies and Tools
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
